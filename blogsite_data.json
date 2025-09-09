@@ -1,0 +1,1012 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-08-17T19:29:53.156Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Возвращение к истокам: Греция в Эпоху Возрождения",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-08-17T19:30:32.884Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Римская классика возвращается: Италия в эпоху Возрождения",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-08-17T19:32:48.104Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Azaliya on Возвращение к истокам: Греция в Эпоху Возрождения",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-08-17T20:34:53.003Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Comment by John on Римская классика возвращается: Италия в эпоху Возрождения",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-08-17T20:34:54.961Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Comment by John on Римская классика возвращается: Италия в эпоху Возрождения",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-08-17T20:34:59.632Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Comment by John on Римская классика возвращается: Италия в эпоху Возрождения",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-08-17T20:35:14.356Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Comment by John on Римская классика возвращается: Италия в эпоху Возрождения",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-08-18T11:40:43.040Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "jazz",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"\\u0420\\u0438\\u043c\\u0441\\u043a\\u0430\\u044f \\u043a\\u043b\\u0430\\u0441\\u0441\\u0438\\u043a\\u0430 \\u0432\\u043e\\u0437\\u0432\\u0440\\u0430\\u0449\\u0430\\u0435\\u0442\\u0441\\u044f: \\u0418\\u0442\\u0430\\u043b\\u0438\\u044f \\u0432 \\u044d\\u043f\\u043e\\u0445\\u0443 \\u0412\\u043e\\u0437\\u0440\\u043e\\u0436\\u0434\\u0435\\u043d\\u0438\\u044f tagged with jazz\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-08-18T11:42:21.651Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Римская классика возвращается: Италия в эпоху Возрождения",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-08-18T11:42:48.203Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Возвращение к истокам: Греция в Эпоху Возрождения",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-08-18T13:30:46.460Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Римская классика возвращается: Италия в эпоху Возрождения",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-08-19T08:36:11.463Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Альберт Бирштадт: Мастер Американского Пейзажа XIX Века",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-08-19T08:37:18.005Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Возвращение к истокам: Греция в Эпоху Возрождения",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-08-19T10:20:42.031Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-08-19T10:23:30.402Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-08-19T10:49:53.895Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$MfjbdNQF9GK1p4EuwhF5Xo$QPfUyVn1n7FqDXfRxGZMf7xCci5eVFAFX+4rrsv9Y8Y=",
+    "last_login": "2025-08-17T19:28:41.633Z",
+    "is_superuser": true,
+    "username": "azaza12",
+    "first_name": "",
+    "last_name": "",
+    "email": "azaliahakimullina12@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-08-17T19:28:27.714Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "na3yoi1g3pj5ab0jd3ezaoc5wiqtgoco",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2pAOlAIu3XsGMsNMpWpoUtqV8e7apAvd_vfef6mE21rS1mRJE6uzAnX63QjzQ-oO-I71Nus813WZSO-KPmjT15nleTncv4OCrXxr4yUM0oEBGChYB9xbpBhHZ7sQrFjwMfSOWTyJM45FaMTsMNoQCaJ6fwC_WTeH:1unj3Z:jTqyhS2fPc2zDS24aczFnYRFmX952xrL8SLUMOcZl2E",
+    "expire_date": "2025-08-31T19:28:41.642Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Возвращение к истокам: Греция в Эпоху Возрождения",
+    "slug": "vozvrashenie-k-istokam-greciya-v-epohu-vozrozhdeniya",
+    "author": 1,
+    "body": "Эпоха Возрождения известна как период бурного расцвета искусств, наук и философии в Европе, когда древние идеи снова вошли в моду, открыв новую эру гуманизма и творчества. Но особое внимание заслуживает именно роль Греции, страны, подарившей миру Античность, ставшей источником вдохновения для великих художников, архитекторов и поэтов Европы.\r\n\r\nВозвращение к истокам античного мира\r\nВ XV-XVI веках Греция переживала уникальное явление: возрождение интереса к своему древнему наследию. После падения Константинополя в 1453 году многие ученые, художники и литераторы бежали на Запад, увозя с собой бесценные рукописи древних авторов. Это событие послужило катализатором распространения идей античности в Италии и Западной Европе, положив начало великому Ренессансу.\r\n\r\nОднако сами греческие земли тоже были охвачены волнением от возвращения к собственным историческим корням. Этот процесс проявился ярко особенно в Афинах, островах Эгейского моря и городах Пелопоннеса. Местные художники, писатели и ремесленники стремились воссоздать дух древности, вдохновляясь образцами прошлого.\r\n\r\nНовый взгляд на искусство и архитектуру\r\nАрхитектурный стиль, зародившийся в этот период, отражал стремление вернуться к простоте и ясности форм классического зодчества. Знаменитые памятники вроде Парфенона стали примером для подражания. Хотя большая часть построек была выполнена под влиянием османских традиций, элементы древнегреческого стиля проникли в здания храмов, дворцов и общественных сооружений.\r\n\r\nЖивописцы также активно использовали классические сюжеты и мотивы. Ярким представителем этой тенденции стал знаменитый художник Эль Греко, родившийся на острове Крит. Его творчество, насыщенное глубокими религиозными чувствами и страстью к цвету, соединяло византийские традиции с итальянским маньеризмом, создавая уникальный художественный стиль.\r\n\r\nНаука и литература: возвращение Платона и Аристотеля\r\nКультурная жизнь Византии в конце Средневековья привела к интенсивному изучению трудов древних философов, среди которых выделялись Платон и Аристотель. Их сочинения вновь становились предметом обсуждений и дискуссий. Университеты Константинополя и Афин играли важную роль в распространении классических знаний, готовили новых поколений исследователей и учителей.\r\n\r\nОдним из ярких примеров литературного произведения той эпохи является поэма \"О любви\", написанная Иоаннесом Аргиропулосом, учеником знаменитого итальянского гуманиста Джорджио Гемисто Плетоном. Эта работа стала символом духовного обновления Греции, возвратившейся к высоким стандартам классической прозы и поэзии.\r\n\r\nНаследие эпохи Возрождения в современной культуре\r\nСегодня наследие эпохи Возрождения ощущается повсеместно: в знаменитых произведениях искусства, памятниках архитектуры и даже повседневной жизни современного общества. Музей Акрополя в Афинах демонстрирует выдающиеся образцы античных скульптур, восстановленные в рамках реставрационных проектов конца XIX—XX веков. Они напоминают нам о вечной ценности красоты и гармонии, заложенных ещё древними мастерами.\r\n\r\nТаким образом, Греция в эпоху Возрождения сумела возродить свою духовность и восстановить связь с прошлым, оказывая значительное влияние на европейскую цивилизацию в целом. Эти исторические события навсегда вписаны в мировую историю культуры и являются ярким свидетельством преемственности и бесконечной силы человеческого духа.",
+    "publish": "2025-08-17T19:28:54Z",
+    "created": "2025-08-17T19:29:53.155Z",
+    "updated": "2025-08-19T08:37:17.999Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Римская классика возвращается: Италия в эпоху Возрождения",
+    "slug": "rimskaya-klassika-vozvrashaetsya-italiya-v-epohu-vozrozhdeniya",
+    "author": 1,
+    "body": "Эпоха Возрождения ознаменовала грандиозное возвращение к идеалам древнего Рима, воспламеняя сердца и умы величайших деятелей искусства, науки и политики. Начавшись в XIV веке в Италии, этот новый культурный этап породил новые течения мысли, архитектуры и художественного выражения, воплотившиеся в великолепных произведениях Микеланджело, Рафаэля и Леонардо да Винчи.\r\n\r\nПробуждение нового сознания\r\nИталия оказалась идеальным местом для зарождения Ренессанса благодаря своей богатой истории и многочисленным руинам великого Римского государства. Флоренция, Венеция, Милан и Рим превращались в центры притяжения лучших умов своего времени. Здесь оживало желание познать и воспроизвести лучшее из античного наследия.\r\n\r\nВажную роль сыграло открытие множества забытых книг и произведений искусства. Благодаря этому деятели Возрождения смогли познакомиться с трудами Цицерона, Сенеки, Лукреция и многих других знаменитостей римской цивилизации. Политические трактаты и моралистические размышления обретали второе дыхание, вызывая новое восприятие власти, нравственности и человеческих возможностей.\r\n\r\nНовая архитектура и искусство\r\nЦентральным элементом культурного переворота стало рождение новой архитектуры, основанной на принципах симметрии и строгих пропорций. Важнейшим событием стало строительство собора Святого Петра в Риме, начатое в первой половине XVI века. Под руководством Браманте, Микеланджело и Бернини создавался символ могущества папского престола, наполненный великолепием и гармонией античных образцов.\r\n\r\nМикеланджело Буонарроти, один из титанов эпохи, создал легендарные фрески Сикстинской капеллы, выражающие высшие чувства и стремления человечества. Во фресках \"Страшный суд\" и \"Создание Адама\" проявляется мощь классической формы, сила анатомического знания и глубокий внутренний смысл религиозных мотивов.\r\n\r\nЛеонардо да Винчи, будучи мастером всех видов творчества, оставил свое впечатление на итальянский пейзаж своими картинами и чертежами, показавшими силу разума и научного познания. Примером служит картина \"Тайная вечеря\", созданная для монастыря Санта-Мария делле Грацие в Милане, символизирующая синтез вероисповедальных ценностей и глубокого понимания человеческой природы.\r\n\r\nНаука и гуманитарные дисциплины\r\nУченость достигла невиданных высот, ведь изучение латинского языка, риторики и права считалось необходимым условием развития любого образованного человека. Среди известных представителей тех времен выделяется Никколо Макиавелли, автор трактата \"Государь\", ставшего своеобразным пособием для политиков последующих столетий.\r\n\r\nМедицина и астрономия также сделали значительный рывок вперед. Итальянские врачи изучали труды Галена и Гиппократа, разрабатывали методы диагностики заболеваний и предлагали новые подходы к лечению. Такие фигуры, как Андреас Везалий, основатель научной анатомии, опубликовавший свой фундаментальный труд \"De humani corporis fabrica\", произвели революционные изменения в медицине.\r\n\r\nПоследствия и значение\r\nИтоги итальянской эпохи Возрождения оказались глобальны. Идеалы античности стали основой европейской культуры Нового времени. Наряду с научными открытиями возникло осознание важности индивидуальности, свободы мысли и творческого самовыражения. Романтизм и Просвещение унаследовали принципы гуманизма, возникшие в Италии.\r\n\r\nРимские и флорентийские школы скульптуры, живописи и архитектуры продолжают восхищать посетителей музеев и исторических мест по всему миру. Каждый турист, гуляющий по улицам Вечного города, невольно погружается в воспоминания о великих художниках и архитекторах, чьи имена связаны с возвышением и обновлением мировой культуры.\r\n\r\nИтак, эпоха Возрождения оставила неизгладимый след в искусстве, науке и политике, формируя современную картину нашего восприятия мира и самого себя. Она дала человечеству возможность заглянуть в прошлое и увидеть там путь к будущему.",
+    "publish": "2025-08-17T19:29:57Z",
+    "created": "2025-08-17T19:30:32.883Z",
+    "updated": "2025-08-18T13:30:46.455Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Альберт Бирштадт: Мастер Американского Пейзажа XIX Века",
+    "slug": "albert-birshtadt-master-amerikanskogo-pejzazha-xix-veka",
+    "author": 1,
+    "body": "Альберт Бирштадт (1830-1902) — выдающийся американский художник, чье творчество стало символом романтизма и величия природы XIX века. Родившись в Германии, он эмигрировал в США с родителями в 1832 году. С раннего возраста Бирштадт проявлял интерес к искусству, что привело его к обучению в различных художественных школах, включая Академию изящных искусств в Дюссельдорфе.\r\n\r\nБирштадт стал известен благодаря своим масштабным пейзажам, которые запечатлевали красоту американской природы, особенно Запада. Его работы отличались яркой цветовой палитрой и детализированным изображением природных сцен, что позволяло зрителям ощутить величие и мощь ландшафта. Художник часто использовал технику \"пленэр\", что позволяло ему передавать атмосферу и световые эффекты с максимальной точностью.\r\n\r\nОдним из самых известных произведений Бирштадта является \"Горы Скалистого хребта\", написанное в 1863 году. Эта картина не только демонстрирует мастерство художника в передаче света и тени, но и отражает дух времени — стремление к исследованию и освоению дикой природы Америки. Бирштадт также был активным участником выставок и путешествий, которые способствовали популяризации его работ среди широкой аудитории.\r\n\r\nВажной частью наследия Бирштадта является его вклад в осознание необходимости охраны природных ресурсов. Его картины вдохновили многих людей на защиту американских природных ландшафтов и стали предвестниками движения по охране окружающей среды.\r\n\r\nСегодня работы Альберта Бирштадта можно увидеть в крупнейших музеях США, включая Музей современного искусства в Нью-Йорке и Смитсоновский институт. Его искусство продолжает вдохновлять новые поколения художников и ценителей природы, напоминая о том, насколько важна связь человека с окружающим миром.",
+    "publish": "2025-08-19T08:35:07Z",
+    "created": "2025-08-19T08:36:11.458Z",
+    "updated": "2025-08-19T08:36:11.458Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2025-08-19T10:20:01Z",
+    "created": "2025-08-19T10:20:42.027Z",
+    "updated": "2025-08-19T10:23:30.399Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 1,
+    "name": "Azaliya",
+    "email": "azaliahakimullina12@gmail.com",
+    "body": "Great article!",
+    "created": "2025-08-17T19:32:48.102Z",
+    "updated": "2025-08-17T19:32:48.102Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 2,
+    "name": "Azaza",
+    "email": "azaliahakimullina12@gmail.com",
+    "body": "Coooool",
+    "created": "2025-08-17T20:23:33.406Z",
+    "updated": "2025-08-17T20:23:33.406Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 2,
+    "name": "Azaza",
+    "email": "azaliahakimullina12@gmail.com",
+    "body": "yeah",
+    "created": "2025-08-17T20:28:47.805Z",
+    "updated": "2025-08-17T20:28:47.805Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 2,
+    "name": "John",
+    "email": "azaliahakimullina12@gmail.com",
+    "body": "HMmm",
+    "created": "2025-08-17T20:31:54.371Z",
+    "updated": "2025-08-17T20:34:59.630Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 2,
+    "name": "John",
+    "email": "azaliahakimullina12@gmail.com",
+    "body": "hmm",
+    "created": "2025-08-17T20:33:17.198Z",
+    "updated": "2025-08-17T20:35:14.343Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 6,
+  "fields": {
+    "post": 2,
+    "name": "John",
+    "email": "azaliahakimullina12@gmail.com",
+    "body": "Hmmm",
+    "created": "2025-08-17T20:33:59.476Z",
+    "updated": "2025-08-17T20:33:59.476Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 7,
+  "fields": {
+    "post": 1,
+    "name": "Lia",
+    "email": "azaliahakimullina12@gmail.com",
+    "body": "aaaaaaa",
+    "created": "2025-08-18T10:25:12.516Z",
+    "updated": "2025-08-18T10:25:12.516Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 8,
+  "fields": {
+    "post": 2,
+    "name": "lia",
+    "email": "azaliahakimullina12@gmai.com",
+    "body": "aaa",
+    "created": "2025-08-18T11:04:13.642Z",
+    "updated": "2025-08-18T11:04:13.642Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 9,
+  "fields": {
+    "post": 2,
+    "name": "dav",
+    "email": "azaliahakimullina12@gmail.com",
+    "body": "aaaa",
+    "created": "2025-08-18T11:12:17.823Z",
+    "updated": "2025-08-18T11:12:17.823Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "greece",
+    "slug": "greece"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "art",
+    "slug": "art"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
